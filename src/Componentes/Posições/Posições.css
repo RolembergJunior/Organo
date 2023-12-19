@@ -1,0 +1,25 @@
+.posicoes{
+    position: relative;
+    padding: 32px;
+    text-align: center;
+}
+
+.posicoes h3{
+    font-size: 32px;
+    padding-bottom: 8px;
+    border-bottom: 4px solid ;
+    display: inline-block;
+}
+
+.posicoes .jogadores{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
+
+.input_cor{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}
