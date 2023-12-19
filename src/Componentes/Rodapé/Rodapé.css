@@ -1,0 +1,18 @@
+footer{
+    align-items: center;
+    background: #36454f;
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 32px;
+}
+
+footer .lista ul li {
+    display: inline-block;
+    margin-right: 2rem;
+}
+
+
+.imagem-logo{
+    width: 300px;
+}
